@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fse7entyse7en%2Fmongo-dynamic-fixture.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fse7entyse7en%2Fmongo-dynamic-fixture?ref=badge_shield)
+
 mongo-dynamic-fixture: easy testing by dynamically creating mongo fixtures
 ==========================================================================
 
@@ -240,3 +242,7 @@ Contributing
 ------------
 
 For any suggestion, improvements, issues and bugs please open an Issue.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fse7entyse7en%2Fmongo-dynamic-fixture.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fse7entyse7en%2Fmongo-dynamic-fixture?ref=badge_large)
